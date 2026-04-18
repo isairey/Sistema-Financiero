@@ -487,7 +487,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 - **Issues:** [GitHub Issues](https://github.com/isairey/Sistema-Financiero/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/isairey/Sistema-Financiero/discussions)
-- **Email:** daniel.carreon@example.com
+- **Email:** isaireyes2003@gmail.com
 
 ---
 
