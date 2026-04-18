@@ -203,8 +203,8 @@ User Action → Frontend Component → API Route → Supabase → Response
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/danielcarreon/sistema-financiero-app.git
-cd sistema-financiero-app
+git clone https://github.com/isairey/Sistema-Financero.git
+cd Sistema-Financiero
 ```
 
 ### Step 2: Install Dependencies
@@ -485,8 +485,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## 📧 Support
 
-- **Issues:** [GitHub Issues](https://github.com/danielcarreon/sistema-financiero-app/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/danielcarreon/sistema-financiero-app/discussions)
+- **Issues:** [GitHub Issues](https://github.com/isairey/Sistema-Financiero/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/isairey/Sistema-Financiero/discussions)
 - **Email:** daniel.carreon@example.com
 
 ---
